@@ -1,31 +1,38 @@
-# CV_Example
+# CV_Juliana Jara
 # Hoja de Vida
 
-## Nombre Completo
-**Profesión:** _Tu profesión_
+## Maria Juliana Jara Esquivel
+**Profesión:** Integracion en opreaciones logisticas 
+Soy un estudiante del programa de Integración en Operaciones Logísticas, con un sólido conocimiento en atención al cliente, logística y gestión de inventarios. A lo largo de mi formación y experiencia, he desarrollado un enfoque práctico y analítico para optimizar procesos logísticos, asegurar la eficiencia en la gestión de inventarios y brindar un servicio al cliente de alta calidad. Mi capacidad para coordinar operaciones, trabajar bajo presión y resolver problemas me permite contribuir de manera efectiva al desarrollo de las áreas de logística y atención al cliente en diversas empresas.
+Habilidades y Competencias:
+**Atención al cliente:** Capacidad para brindar un servicio eficaz y personalizado, garantizando una experiencia positiva y la fidelización de los clientes.
+**Gestión de inventarios:** Conocimiento en el control y seguimiento de inventarios, optimización de espacios de almacenamiento y manejo de sistemas de gestión.
+**Logística y distribución:** Habilidad para coordinar y optimizar los procesos logísticos, incluyendo el manejo de transporte, almacenamiento y distribución de productos.
+**Planificación y organización:** Capacidad para gestionar y coordinar múltiples tareas, asegurando el cumplimiento de plazos y la eficiencia operativa.
+**Resolución de problemas:** Aptitud para identificar problemas operativos y encontrar soluciones efectivas de manera rápida y eficiente.
+**Trabajo en equipo:** Habilidad para colaborar en equipos multidisciplinarios y aportar al logro de objetivos comunes.
+**Gestión de relaciones interpersonales:** Desarrollo de buenas habilidades de comunicación para interactuar con clientes, proveedores y equipos internos.
 
 ## 📞 Contacto
-- **Teléfono:** +57 123 456 7890
-- **Email:** [correo@ejemplo.com](mailto:correo@ejemplo.com)
-- **LinkedIn:** [linkedin.com/in/tuusuario](https://linkedin.com/in/tuusuario)
+- **Email:** [julianajarae12@gmail.com](mailto:correo@ejemplo.com)
+- **LinkedIn:** [https://www.linkedin.com/in/juliana-jara-404619356/](https://www.linkedin.com/in/juliana-jara-404619356/)
 
 ## 🏢 Experiencia Laboral
-### **Empresa XYZ** _(2020 - Actualidad)_
-- Puesto ocupado y descripción breve.
-
-### **Empresa ABC** _(2018 - 2020)_
-- Puesto ocupado y descripción breve.
+### **Stop city** _(2024 - 2025)_
+- atencion al cliente cajera.
 
 ## 🎓 Educación
-### **Universidad Ejemplo** _(2014 - 2018)_
-- Título obtenido.
+### **Sena ** _(2024- actualidad)_
+- tecnico integral de operaciones logistica.
+### **Fundacion grupo san marino ** _(2023-)
+- Bachiller academico.
 
 ## 💡 Habilidades
-- **Habilidad 1**
-- **Habilidad 2**
-- **Habilidad 3**
+- **trabajo en equipo**
+- **responsabilidad integral y laboral**
+- **empatia**
 
----
+
 
 ## 🎨 Formatos y Fuentes Disponibles
 
